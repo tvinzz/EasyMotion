@@ -59,5 +59,5 @@ Adjust the animation offset appearing on scrolling by adding HTML `attribute ani
 ```
 ## Limitations
 
-For `<span>` elements works only the fade animation type.
-If you want to animate a bottom page element (page footer) don't forget to add `animation-offset="0"` attribute.
+- For `<span>` elements works only the fade animation type.
+- If you want to animate a bottom page element (page footer) don't forget to add `animation-offset="0"` attribute.
