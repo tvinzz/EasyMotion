@@ -8,11 +8,11 @@ EasyMotion Plugin for jQuery is the simple way to add animation to any HTML obje
 
 1. Download the plugin to your website folder (or create subfolder).
 
-2. Add the following line between <head>..</head> tags and replace the /file-path/ with the real path to the file **easymotion.js**:
+2. Add the following line between `<head>..</head>` tags and replace the */file-path/* with the real path to the file **easymotion.js**:
 ```
 <script src="/file-path/easymotion.js"></script>
 ```
-If you don't use jQuery library add one more line between <head>..</head> tags and replace the /file-path/ with the real path to the file **jquery.min.js**:
+If you don't use jQuery library add one more line between <head>..</head> tags and replace the */file-path/* with the real path to the file **jquery.min.js**:
 ```
 <script src="/file-path/jquery.min.js"></script>
 ```
