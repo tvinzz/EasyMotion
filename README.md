@@ -48,12 +48,12 @@ If you don't use jQuery library add one more line between `<head>..</head>` tags
 ## Extra settings
 
 #### Animation time
-You can control the animation time by adding one more HTML attribute animation-time=" " to the animated element (1000 = 1 second):
+You can control the animation time by adding one more HTML attribute `animation-time=" "` to the animated element (1000 = 1 second):
 ```
 <div animation="scale" animation-time="2500">...</div>
 ```
 #### Animation offset
-Adjust the animation offset appearing on scrolling by adding HTML attribute animation-offset=" " to the animated element:
+Adjust the animation offset appearing on scrolling by adding HTML `attribute animation-offset=" "` to the animated element:
 ```
 <div animation="fade" animation-offset="300">...</div>
 ```
