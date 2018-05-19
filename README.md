@@ -26,13 +26,21 @@ If you don't use jQuery library add one more line between <head>..</head> tags a
 ## ANIMATION TYPES
 
 `animation="fade"` - Fading appearing effect
+
 `animation="scale"` - Scaling appearing effect
+
 `animation="rotate"` - Rotation appearing effect
+
 `animation="rotate-c"` - Clockwise rotation appearing effect
+
 `animation="scale-rotate"` - Scaling and rotation appearing effect
+
 `animation="left-to-right"` - Appearing from left to right effect
+
 `animation="right-to-left"` - Appearing from right to left effect
+
 `animation="bottom-to-top"` - Appearing from bottom to top effect
+
 `animation="top-to-bottom"` - Appearing from top to bottom effect
 
 ## EXTRA SETTINGS
