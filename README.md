@@ -1,8 +1,8 @@
-DESCRIPTION
+## DESCRIPTION
 
 EasyMotion Plugin is the simple way to add animation to any HTML object on your website when it appears on scrolling. This plugin includes different types of animation: fade, left, right, top and bottom appearing, scaling and rotations. It also provides extra settings for animation time and appearing offset.
 
-INSTALLATION AND USAGE
+## INSTALLATION AND USAGE
 
 1. Download the plugin to your website folder.
 
@@ -23,7 +23,7 @@ If you don't use jQuery library add one more line between <head>..</head> tags a
 ```
 4. Check extra settings if you have a special demands.
 
-ANIMATION TYPES
+## ANIMATION TYPES
 
 `animation="fade"` - Fading appearing effect
 `animation="scale"` - Scaling appearing effect
@@ -35,19 +35,19 @@ ANIMATION TYPES
 `animation="bottom-to-top"` - Appearing from bottom to top effect
 `animation="top-to-bottom"` - Appearing from top to bottom effect
 
-EXTRA SETTINGS
+## EXTRA SETTINGS
 
-Animation time.
+### Animation time
 You can control the animation time by adding one more HTML attribute animation-time=" " to the animated element (1000 = 1 second):
 ```
 <div animation="scale" animation-time="2500">...</div>
 ```
-Animation offset.
+### Animation offset
 Adjust the animation offset appearing on scrolling by adding HTML attribute animation-offset=" " to the animated element:
 ```
 <div animation="fade" animation-offset="300">...</div>
 ```
-LIMITATIOS
+## LIMITATIONS
 
 For <span> elements works only the fade animation type.
 If you want to animate a bottom page element (page footer) don't forget to add animation-offset="0" attribute.
