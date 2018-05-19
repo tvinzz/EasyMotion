@@ -1,6 +1,8 @@
+# EasyMotion Plugin
+
 ## DESCRIPTION
 
-EasyMotion Plugin is the simple way to add animation to any HTML object on your website when it appears on scrolling. This plugin includes different types of animation: fade, left, right, top and bottom appearing, scaling and rotations. It also provides extra settings for animation time and appearing offset.
+EasyMotion Plugin for jQuery is the simple way to add animation to any HTML object on your website when it appears on scrolling. This plugin includes different types of animation: fade, left, right, top and bottom appearing, scaling and rotations. It also provides extra settings for animation time and appearing offset.
 
 ## INSTALLATION AND USAGE
 
