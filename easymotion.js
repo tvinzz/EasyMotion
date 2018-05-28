@@ -50,7 +50,6 @@ window.onload = function () {
                         delta = +eachElem.attr("animation-offset");     // Scroll offset to display element
                     }
                     if (($(window).height() + $(this).scrollTop()) > (elementPosition + delta)) {
-                            console.log('delta: ' + delta);
                          eachElem.css({'opacity':'1', '-ms-transform':'initial', '-webkit-transform':'initial', '-moz-transform':'initial', '-o-transform':'initial', 'transform':'initial'});
                          $(window).off('scroll', onScroll);
                     }
